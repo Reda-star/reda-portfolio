@@ -13,7 +13,7 @@ const Frontend = () => {
                     <i  class='bx bxl-html5 icon-html' style={{fontSize: "2.3rem", color: "#e34f26"}} ></i>
                         <div>
                             <h3 data-aos="zoom-in" data-aos-delay="600" className="skills__name">HTML</h3>
-                            <span data-aos="zoom-in" data-aos-delay="700" className="skills__level">Basic</span>
+                            <span data-aos="zoom-in" data-aos-delay="700" className="skills__level">Advanced</span>
                         </div>
                     </div>
 
