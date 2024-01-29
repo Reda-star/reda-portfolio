@@ -76,7 +76,7 @@ const Services = () => {
             <div  className="services__content">
                 <div>
                     <i data-aos="zoom-in" className="uil uil-arrow services__icon"></i>
-                    <h3 data-aos="zoom-in" className="services__title">Ui/Ux <br />Development</h3>
+                    <h3 data-aos="zoom-in" className="services__title">UI/UX <br />Development</h3>
                 </div>
 
                 <span data-aos="zoom-in" onClick={()=> toggleTab(2)} className="services__button">View more

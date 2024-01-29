@@ -61,7 +61,7 @@ const Frontend = () => {
                     <i class='bx bxl-nodejs icon-node' style={{fontSize: "2.3rem", color: "#6cc24a"}}></i>
                         <div>
                             <h3 data-aos="zoom-in" data-aos-delay="2300" className="skills__name">Nodejs</h3>
-                            <span data-aos="zoom-in" data-aos-delay="2400" className="skills__level">Basic</span>
+                            <span data-aos="zoom-in" data-aos-delay="2400" className="skills__level">Advanced</span>
                         </div>
                     </div>
 
