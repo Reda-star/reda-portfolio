@@ -5,7 +5,7 @@ import Info from './Info'
 import Aos from 'aos'
 import { useEffect } from 'react'
 import 'aos/dist/aos.css';
-import CV from '../../assets/Reda_Belouch_CV.pdf'
+import CV from '../../assets/RedaBelouch_CV.pdf'
 
 
 const About = () => {
